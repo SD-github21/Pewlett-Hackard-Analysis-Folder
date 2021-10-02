@@ -10,12 +10,12 @@ The purpose of the current analysis was to assist an HR analyst at Pewlett Hacka
 
 ## Results
 
-- A Retirement Titles table was created that contains all employees born between 1952-2955. This table contained 133,776 records and revealed duplicate entries because of people having been promoted over the years. Below is a sample of the first 10 records in this table:
+- (1) A Retirement Titles table was created that contains all employees born between 1952-2955. This table contained 133,776 records and revealed duplicate entries because of people having been promoted over the years. Below is a sample of the first 10 records in this table:
 
-![image](https://user-images.githubusercontent.com/85533099/135701453-29128c74-fd99-4e8e-aeee-b3734b07e23e.png)
+![image](https://user-images.githubusercontent.com/85533099/135701660-09d8a9bf-9a6a-4649-9a45-2fe5f6e9faa3.png)
 
 - (2) A Unique Titles table was created next to further hone the results of the table generated above and retrieve the most recent title of each employee. This table contained a list of unique records
  
-![image](https://user-images.githubusercontent.com/85533099/135701608-ecd742ca-7748-48d4-bf9f-61763760ff22.png)
+![image](https://user-images.githubusercontent.com/85533099/135701683-3dc4eb6b-3724-4265-a3e0-f0fa0b5937d2.png)
 
 
