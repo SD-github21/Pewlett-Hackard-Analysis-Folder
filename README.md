@@ -18,9 +18,16 @@ The purpose of the current analysis was to assist an HR analyst at Pewlett Hacka
  
 ![image](https://user-images.githubusercontent.com/85533099/135701877-23b9f641-96ae-463b-adf0-dd612d8f2f26.png)
 
-- A Retiring Titles table was created to obtain summary data of the total number of employees by title that will be retiring. This table provides the most concise snapshot into the "silver tsunami" that is anticipated to occur at Pewlett Hackard. Below is the table containing this information:
+- A Retiring Titles table was created to obtain summary data of the total number of employees by title that will be retiring. This table provides the most concise snapshot into the "silver tsunami" that is anticipated to occur at Pewlett Hackard. Pewlett Hackard will experience a major loss of 45,397 total engineers at multiple levels, i.e., Senior Engineers, Engineers, and Assistant Engineers. Additionally, 57,668 of retiring employees hold "Senior" titles, which signifies a significant loss of the workforce who hold leadership positions. Below is the table containing this information:
 
 ![image](https://user-images.githubusercontent.com/85533099/135701887-60343304-38f9-461b-9623-b3aafec8f188.png)
+
+- A Mentorship Eligibility title was created to generate a list of current employees born in 1965 who would be eligible to participate in a mentorship program to assist with transitioning newly-hired employees. This table contains a total of 1,549 employees. Below is a sample of the first 10 records in this table:
+
+![image](https://user-images.githubusercontent.com/85533099/135702770-c82108f8-1c0f-46e9-9da7-7159882fba9a.png)
+
+
+## Summary
 
   - Senior Engineers (29,414) and Senior Staff (28,254) are the top two groups anticipated to retire followed by the next two groups, i.e., Engineers (14,222) and Staff (12,243)
   
@@ -28,7 +35,6 @@ The purpose of the current analysis was to assist an HR analyst at Pewlett Hacka
  
   - Only two Managers are slated to retire 
 
-- These numbers reveal a major loss of engineers at multiple levels, i.e., Senior Engineers, Engineers, and Assistant Engineers. 
 
-- There also appears to be a huge number of people in senior roles that are retiring
+- As indicated above, the current analysis reveals that  
 
