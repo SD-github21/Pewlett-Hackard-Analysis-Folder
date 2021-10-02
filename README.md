@@ -35,6 +35,5 @@ The purpose of the current analysis was to assist an HR analyst at Pewlett Hacka
  
   - Only two Managers are slated to retire 
 
-
 - As indicated above, the current analysis reveals that  
 
