@@ -18,7 +18,7 @@ The purpose of the current analysis was to assist an HR analyst at Pewlett Hacka
  
 ![image](https://user-images.githubusercontent.com/85533099/135701877-23b9f641-96ae-463b-adf0-dd612d8f2f26.png)
 
-- A Retiring Titles table was created to obtain summary data of the total number of employees by title that will be retiring. This table provides the most concise snapshot into the "silver tsunami" that is anticipated to occur at Pewlett Hackard. Pewlett Hackard will experience a major loss of 45,397 total engineers at multiple levels, i.e., Senior Engineers, Engineers, and Assistant Engineers. Additionally, 57,668 of retiring employees hold "Senior" titles, which signifies a significant loss of the workforce who hold leadership positions. Below is the table containing this information:
+- A Retiring Titles table was created to obtain summary data of the total number of employees by title that will be retiring. This table provides the most concise snapshot into the "silver tsunami" that is anticipated to occur at Pewlett Hackard. Engineers at multiple levels comprise  45,397 of the total number of retiring employees, while 57,668 of retiring employees hold "Senior" titles. Below is the table containing this information:
 
 ![image](https://user-images.githubusercontent.com/85533099/135701887-60343304-38f9-461b-9623-b3aafec8f188.png)
 
@@ -29,11 +29,21 @@ The purpose of the current analysis was to assist an HR analyst at Pewlett Hacka
 
 ## Summary
 
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+As indicated above, the current analysis reveals that a total of 90,398 roles will need to be filled as the "silver tsunami" begins to make an impact:
+
   - Senior Engineers (29,414) and Senior Staff (28,254) are the top two groups anticipated to retire followed by the next two groups, i.e., Engineers (14,222) and Staff (12,243)
   
   - Technique Leaders (4,502) and Assistant Engineers (1,761) are two groups with a significantly lower number of employees anticipated to retire when compared to the numbers above, but still are indicative of rather large numbers 
  
   - Only two Managers are slated to retire 
 
-- As indicated above, the current analysis reveals that  
+Therefore, as stated above, Pewlett Hackard will experience a major loss of 45,397 total engineers at multiple levels, i.e., Senior Engineers, Engineers, and Assistant Engineers. Additionally, 57,668 of retiring employees hold "Senior" titles, which signifies a significant loss of the workforce who hold leadership positions. 
+
+### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+According to the current analysis, there are only 1,549 employees who are born in the year 1965 who would be eligible to participate in a mentorship program to assist with transitioning newly-hired employees. This is a dramatically low number and signifies that Pewlett Hackard appears to be suffering from a lack of enough qualified, retirement-ready employees to mentor the next generation of Pewlett Hackard employees if the criteria to be a mentor only involves those born in the year 1965. 
+
+### Additional insights
 
