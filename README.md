@@ -10,15 +10,17 @@ The purpose of the current analysis was to assist an HR analyst at Pewlett Hacka
 
 ## Results
 
--  A Retirement Titles table was created that contains all employees born between 1952-1955. This table contained 133,776 records and revealed duplicate entries because of people having been promoted over the years. Below is a sample of the first 10 records in this table:
+-  A Retirement Titles table was created that contains all employees born between 1952-1955. Below is a sample of the first 10 records in this table:
 
-![image](https://user-images.githubusercontent.com/85533099/135701660-09d8a9bf-9a6a-4649-9a45-2fe5f6e9faa3.png)
+![image](https://user-images.githubusercontent.com/85533099/135701846-9f302720-0905-487b-9535-178a2f71301e.png)
 
-- A Unique Titles table was created next to further hone the results of the table generated above and retrieve the most recent title of each employee. This table contained a list of unique records with 90,398 employees. Below is a sample of the first 10 records in this table:
+- A Unique Titles table was created next to further hone the results of the table generated above and retrieve the most recent title of each employee. Below is a sample of the first 10 records in this table:
  
-![image](https://user-images.githubusercontent.com/85533099/135701683-3dc4eb6b-3724-4265-a3e0-f0fa0b5937d2.png)
+![image](https://user-images.githubusercontent.com/85533099/135701835-00700f59-2695-4070-b7e9-492e30ea3440.png)
 
 - A Retiring Titles was created to obtain summary data of the total number of employees by title that will be retiring. Below is the table containing this information:
+- 
+![image](https://user-images.githubusercontent.com/85533099/135701787-2278b4ca-1c5d-44d2-8332-95b147f3dd53.png)
 
-![image](https://user-images.githubusercontent.com/85533099/135701728-d61df006-36a9-4bac-b0e7-e3d6199e7b78.png)
-
+- The following four major points can be gleaned from examination of these tables:
+  -  The Retirement Titles table contained 133,776 records and revealed duplicate entries because of people's promotions over the years, and therefore having multiple titles
