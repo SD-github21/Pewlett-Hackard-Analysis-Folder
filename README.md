@@ -12,15 +12,15 @@ The purpose of the current analysis was to assist an HR analyst at Pewlett Hacka
 
 -  A Retirement Titles table was created that contains all employees born between 1952-1955. Below is a sample of the first 10 records in this table:
 
-![image](https://user-images.githubusercontent.com/85533099/135701846-9f302720-0905-487b-9535-178a2f71301e.png)
+![image](https://user-images.githubusercontent.com/85533099/135701862-8c07900f-37d5-4114-9182-d7779f4a6cbb.png)
 
 - A Unique Titles table was created next to further hone the results of the table generated above and retrieve the most recent title of each employee. Below is a sample of the first 10 records in this table:
  
-![image](https://user-images.githubusercontent.com/85533099/135701835-00700f59-2695-4070-b7e9-492e30ea3440.png)
+![image](https://user-images.githubusercontent.com/85533099/135701877-23b9f641-96ae-463b-adf0-dd612d8f2f26.png)
 
 - A Retiring Titles was created to obtain summary data of the total number of employees by title that will be retiring. Below is the table containing this information:
 - 
-![image](https://user-images.githubusercontent.com/85533099/135701787-2278b4ca-1c5d-44d2-8332-95b147f3dd53.png)
+![image](https://user-images.githubusercontent.com/85533099/135701887-60343304-38f9-461b-9623-b3aafec8f188.png)
 
 - The following four major points can be gleaned from examination of these tables:
   -  The Retirement Titles table contained 133,776 records and revealed duplicate entries because of people's promotions over the years, and therefore having multiple titles
