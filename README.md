@@ -2,7 +2,7 @@
 
 ## Overview of Pewlett Hackard Analysis
 
-The purpose of the current analysis was to assist an HR analyst at Pewlett Hackard to prepare for an upcoming wave of retirements from staff members. An entity relationship diagram (ERD) was first generated to map out an database design to hold all available data on employees in the form of six CSV files. Subsequently a database was then created in Postgres SQL using pgAdmin 4 and the six CSV files were imported. The purpose of the current analysis was to generate two lists comprised of (1) the number of retiring employees grouped by their titles and (2) the employees eligible for a mentorship program to assist with mentoring newly hired employees. 
+The purpose of the current analysis was to assist an HR analyst at Pewlett Hackard to prepare for an upcoming wave of retirements from staff members. An entity relationship diagram (ERD) was first generated to map out an database design to hold all available data on employees in the form of six CSV files. Subsequently a database was then created in Postgres SQL using pgAdmin 4 and the six CSV files were imported. The purpose of the current analysis was to generate two lists comprised of (1) the number of retiring employees and their titles and (2) the employees eligible for a mentorship program to assist with transitioning newly hired employees. 
 
 ## Resources
 - Data Sources: PH-EmployeeDB -- Postgres SQL database
@@ -10,17 +10,25 @@ The purpose of the current analysis was to assist an HR analyst at Pewlett Hacka
 
 ## Results
 
--  A Retirement Titles table was created that contains all employees born between 1952-1955. Below is a sample of the first 10 records in this table:
+-  A Retirement Titles table was created to identify all employees born between 1952-1955. The Retirement Titles table contained 133,776 records and revealed duplicate entries because of people's promotions over the years. Below is a sample of the first 10 records in this table:
 
 ![image](https://user-images.githubusercontent.com/85533099/135701862-8c07900f-37d5-4114-9182-d7779f4a6cbb.png)
 
-- A Unique Titles table was created next to further hone the results of the table generated above and retrieve the most recent title of each employee. Below is a sample of the first 10 records in this table:
+- A Unique Titles table was created next to further hone the results of the table generated above and retrieve the most recent title of each employee. This permitted a more accurate number of the total number of retiring employees, i.e., 90,398 employees.  Below is a sample of the first 10 records in this table:
  
 ![image](https://user-images.githubusercontent.com/85533099/135701877-23b9f641-96ae-463b-adf0-dd612d8f2f26.png)
 
-- A Retiring Titles was created to obtain summary data of the total number of employees by title that will be retiring. Below is the table containing this information:
-- 
+- A Retiring Titles table was created to obtain summary data of the total number of employees by title that will be retiring. This table provides the most concise snapshot into the "silver tsunami" that is anticipated to occur at Pewlett Hackard. Below is the table containing this information:
+
 ![image](https://user-images.githubusercontent.com/85533099/135701887-60343304-38f9-461b-9623-b3aafec8f188.png)
 
-- The following four major points can be gleaned from examination of these tables:
-  -  The Retirement Titles table contained 133,776 records and revealed duplicate entries because of people's promotions over the years, and therefore having multiple titles
+  - Senior Engineers (29,414) and Senior Staff (28,254) are the top two groups anticipated to retire followed by the next two groups, i.e., Engineers (14,222) and Staff (12,243)
+  
+  - Technique Leaders (4,502) and Assistant Engineers (1,761) are two groups with a significantly lower number of employees anticipated to retire when compared to the numbers above, but still are indicative of rather large numbers 
+ 
+  - Only two Managers are slated to retire 
+
+- These numbers reveal a major loss of engineers at multiple levels, i.e., Senior Engineers, Engineers, and Assistant Engineers. 
+
+- There also appears to be a huge number of people in senior roles that are retiring
+
