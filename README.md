@@ -38,8 +38,10 @@ As indicated above, the current analysis reveals that a total of 90,398 roles wi
   - Technique Leaders (4,502) and Assistant Engineers (1,761) are two groups with a significantly lower number of employees anticipated to retire when compared to the numbers above, but still are indicative of rather large numbers 
  
   - Only two Managers are slated to retire 
-
-Therefore, as stated above, Pewlett Hackard will experience a major loss of 45,397 total engineers at multiple levels, i.e., Senior Engineers, Engineers, and Assistant Engineers. Additionally, 57,668 of retiring employees hold "Senior" titles, which signifies a significant loss of the workforce who hold leadership positions. 
+  
+  - As stated above, Pewlett Hackard will experience a major loss of 45,397 total engineers at multiple levels, i.e., Senior Engineers, Engineers, and Assistant Engineers
+  
+  - Additionally, 57,668 of retiring employees hold "Senior" titles, which signifies a significant loss of the workforce who hold leadership positions. 
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
@@ -47,9 +49,19 @@ According to the current analysis, there are only 1,549 employees who are born i
 
 ### Additional insights
 
-- A Retirement Departments table was created to add more insights into the above list of retiring employees by title. Below is a sample of the first 10 records of this table:
+Due to the concerning numbers obtained in the current analysis, some further analyses were conducted to better help Pewlett Hackard understand the impact of the "silver tsunami" by department. 
+
+- A Retirement Departments table was created to add department names into the above list of retiring employees by title. Below is a sample of the first 10 records of this table:
 
 ![image](https://user-images.githubusercontent.com/85533099/135736452-18e3717d-0f10-467e-a796-c512b9c32232.png)
 
+- The query below was conducted to identify the total number of employees retiring by department:
+
+![image](https://user-images.githubusercontent.com/85533099/135736657-557a4517-cebe-4f68-9987-b30540007b87.png)
+
+  - According to the above query output, we see that the departments most dramatically affected by the "silver tsunami" will be (1) Development, which will be losing 24,245   
+  employees; (2) Production, which will be losing 21,782 employees; and (3) Sales, which will be losing 14,304 employees. The other departments will still be losing a large     number of employees as well, but these three departments are anticipated to be the most drastically affected. 
+
 - 
+
 
