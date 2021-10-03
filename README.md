@@ -65,6 +65,6 @@ Due to the concerning numbers obtained in the current analysis, some further ana
 
 ![image](https://user-images.githubusercontent.com/85533099/135737042-2601daa7-b95b-42e3-a7e6-9a14868c4d92.png)
 
-  - The above query output can be further parsed into separate lists that can be distributed to the department managers of each department within Pewlett Hackard. It is hoped that, by viewing this list of the number of employees retiring per title, the department managers can have a better understanding of which roles will need to be filled and they can prepare for recruitment of new employees. It might also seem a bit more feasible to begin the daunting task of preparing for the "silver tsunami" when we see the numbers in this way versus a more general list just depicting employees by title that was created above with the Retiring Titles table.  
+  - The above query output can be further parsed into separate lists that can be distributed to the department managers of each department within Pewlett Hackard. It is hoped that, by viewing this list of the number of employees retiring per title, the department managers can have a better understanding of which roles will need to be filled and they can prepare for recruitment of new employees. This might be a good first step towards beginning the daunting task of preparing for the "silver tsunami" when we see the numbers in this way versus a more general list just depicting employees by title that was created above with the Retiring Titles table.  
 
 
