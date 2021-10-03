@@ -22,7 +22,7 @@ The purpose of the current analysis was to assist an HR analyst at Pewlett Hacka
 
 ![image](https://user-images.githubusercontent.com/85533099/135701887-60343304-38f9-461b-9623-b3aafec8f188.png)
 
-- A Mentorship Eligibility title was created to generate a list of current employees born in 1965 who would be eligible to participate in a mentorship program to assist with transitioning newly-hired employees. This table contains a total of 1,549 employees. Below is a sample of the first 10 records in this table:
+- A Mentorship Eligibility table was created to generate a list of current employees born in 1965 who would be eligible to participate in a mentorship program to assist with transitioning newly-hired employees. This table contains a total of 1,549 employees. Below is a sample of the first 10 records in this table:
 
 ![image](https://user-images.githubusercontent.com/85533099/135702770-c82108f8-1c0f-46e9-9da7-7159882fba9a.png)
 
@@ -46,4 +46,10 @@ Therefore, as stated above, Pewlett Hackard will experience a major loss of 45,3
 According to the current analysis, there are only 1,549 employees who are born in the year 1965 who would be eligible to participate in a mentorship program to assist with transitioning newly-hired employees. This is a dramatically low number and signifies that Pewlett Hackard appears to be suffering from a lack of enough qualified, retirement-ready employees to mentor the next generation of Pewlett Hackard employees if the criteria to be a mentor only involves those born in the year 1965. 
 
 ### Additional insights
+
+- A Retirement Departments table was created to add more insights into the above list of retiring employees by title. Below is a sample of the first 10 records of this table:
+
+![image](https://user-images.githubusercontent.com/85533099/135736452-18e3717d-0f10-467e-a796-c512b9c32232.png)
+
+- 
 
