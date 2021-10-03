@@ -51,17 +51,20 @@ According to the current analysis, there are only 1,549 employees who are born i
 
 Due to the concerning numbers obtained in the current analysis, some further analyses were conducted to better help Pewlett Hackard understand the impact of the "silver tsunami" by department. 
 
-- A Retirement Departments table was created to add department names into the above list of retiring employees by title. Below is a sample of the first 10 records of this table:
+(1) A Retirement Departments table was created to add department names into the above list of retiring employees by title. Below is a sample of the first 10 records of this table:
 
 ![image](https://user-images.githubusercontent.com/85533099/135736452-18e3717d-0f10-467e-a796-c512b9c32232.png)
 
-- The query below was conducted to identify the total number of employees retiring by department:
+(2) A query was conducted to identify the total number of employees retiring by department:
 
 ![image](https://user-images.githubusercontent.com/85533099/135736657-557a4517-cebe-4f68-9987-b30540007b87.png)
 
-  - According to the above query output, we see that the departments most dramatically affected by the "silver tsunami" will be (1) Development, which will be losing 24,245   
-  employees; (2) Production, which will be losing 21,782 employees; and (3) Sales, which will be losing 14,304 employees. The other departments will still be losing a large     number of employees as well, but these three departments are anticipated to be the most drastically affected. 
+  - According to the above query output, we see that the departments most dramatically affected by the "silver tsunami" will be (1) Development, which will be losing 24,245 employees; (2) Production, which will be losing 21,782 employees; and (3) Sales, which will be losing 14,304 employees. The other departments will still be losing a large number of employees as well, but these three departments are anticipated to be the most drastically affected. 
 
-- 
+(3) A second query was conducted to glean further information about how roles within each department will experience the "silver tsunami":
+
+![image](https://user-images.githubusercontent.com/85533099/135737042-2601daa7-b95b-42e3-a7e6-9a14868c4d92.png)
+
+  - The above query output can be further parsed into separate lists that can be distributed to the department managers of each department within Pewlett Hackard. It is hoped that, by viewing this list of the number of employees retiring per title, the department managers can have a better understanding of which roles will need to be filled and they can prepare for recruitment of new employees. It might also seem a bit more feasible to begin the daunting task of preparing for the "silver tsunami" when we see the numbers in this way versus a more general list just depicting employees by title that was created above with the Retiring Titles table.  
 
 
