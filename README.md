@@ -5,7 +5,7 @@
 The purpose of the current analysis was to assist an HR analyst at Pewlett Hackard with developing an employee database in SQL and subsequently, providing information from this employee database that would help the company prepare for an upcoming wave of employee retirements. An entity relationship diagram (ERD) was first generated to model a database design for all available data on employees in the form of six CSV files. Subsequently a database was then created in Postgres SQL using pgAdmin 4 and the six CSV files were imported. Several tables and lists were then generated to provide information on the total number of retiring employees and their titles as well as to identify the employees eligible for a mentorship program to assist with transitioning newly hired employees. 
 
 ## Resources
-- Data Sources: PH-EmployeeDB -- Postgres SQL database
+- Data Sources: PH-EmployeeDB (Postgres SQL database)
 - Software: Postgres SQL 11.13.2 and pgAdmin4
 
 ## Results
