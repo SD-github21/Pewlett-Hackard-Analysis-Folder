@@ -61,7 +61,7 @@ Due to the concerning numbers obtained in the current analysis, some further ana
 
   - According to the above query output, we see that the departments most dramatically affected by the "silver tsunami" will be (1) Development, which will be losing 24,245 employees; (2) Production, which will be losing 21,782 employees; and (3) Sales, which will be losing 14,304 employees. The other departments will still be losing a large number of employees as well, but these three departments are anticipated to be the most drastically affected. 
 
-(3) A second query was conducted to glean further information about how roles within each department will experience the "silver tsunami":
+(3) Another query was conducted to identify the total number of retiring employees by title within each department:
 
 ![image](https://user-images.githubusercontent.com/85533099/135737042-2601daa7-b95b-42e3-a7e6-9a14868c4d92.png)
 
