@@ -2,7 +2,7 @@
 
 ## Overview of Pewlett Hackard Analysis
 
-The purpose of the current analysis was to assist an HR analyst at Pewlett Hackard to prepare for an upcoming wave of retirements from staff members. An entity relationship diagram (ERD) was first generated to map out an database design to hold all available data on employees in the form of six CSV files. Subsequently a database was then created in Postgres SQL using pgAdmin 4 and the six CSV files were imported. The purpose of the current analysis was to generate two lists comprised of (1) the number of retiring employees and their titles and (2) the employees eligible for a mentorship program to assist with transitioning newly hired employees. 
+The purpose of the current analysis was to assist an HR analyst at Pewlett Hackard to prepare for an upcoming wave of staff member retirements. An entity relationship diagram (ERD) was first generated to map out an database design to hold all available data on employees in the form of six CSV files. Subsequently a database was then created in Postgres SQL using pgAdmin 4 and the six CSV files were imported. The purpose of the current analysis was to generate two lists comprised of (1) the number of retiring employees and their titles and (2) the employees eligible for a mentorship program to assist with transitioning newly hired employees. 
 
 ## Resources
 - Data Sources: PH-EmployeeDB -- Postgres SQL database
