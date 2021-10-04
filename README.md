@@ -18,7 +18,7 @@ The purpose of the current analysis was to assist an HR analyst at Pewlett Hacka
  
 ![image](https://user-images.githubusercontent.com/85533099/135701877-23b9f641-96ae-463b-adf0-dd612d8f2f26.png)
 
-- A Retiring Titles table was created to obtain summary data of the total number of employees by title that will be retiring. This table provides the most concise snapshot into the "silver tsunami" that is anticipated to occur at Pewlett Hackard. Engineers at multiple levels comprise  45,397 of the total number of retiring employees, while 57,668 of retiring employees hold "Senior" titles. Below is the table containing this information:
+- A Retiring Titles table was created to obtain summary data of the total number of employees by title that will be retiring. This table provides the most concise snapshot into the "silver tsunami" that is anticipated to occur at Pewlett Hackard. Most notably, engineers at multiple levels comprise  45,397 of the total number of retiring employees, while 57,668 of retiring employees hold "Senior" titles. Below is the table containing this information:
 
 ![image](https://user-images.githubusercontent.com/85533099/135701887-60343304-38f9-461b-9623-b3aafec8f188.png)
 
